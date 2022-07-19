@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69d1113712099bc46b69770591f7ed23, type: 3}
+  m_Name: LevelEditorData
+  m_EditorClassIdentifier: 
+  selected:
+    name: Boxes
+    isExpanded: 0
+    list:
+    - {fileID: 5406511805339394623, guid: fbb81eb2ab78a344097a809d27337d9c, type: 3}
+    - {fileID: 9046070036388441523, guid: d6a3734168a627b4b8473dd96c151781, type: 3}
+    - {fileID: 8244389618044396063, guid: 4b5ee0a2b896c4b46b71b56974fc202a, type: 3}
+  groups:
+  - name: Boxes
+    isExpanded: 0
+    list:
+    - {fileID: 5406511805339394623, guid: fbb81eb2ab78a344097a809d27337d9c, type: 3}
+    - {fileID: 9046070036388441523, guid: d6a3734168a627b4b8473dd96c151781, type: 3}
+    - {fileID: 8244389618044396063, guid: 4b5ee0a2b896c4b46b71b56974fc202a, type: 3}
